@@ -1,0 +1,320 @@
+{
+  "main": {
+    "id": "5448fdaa464aaae9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9c0128c0091e42c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68d98d99bbea1589",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10普通生物学.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10普通生物学"
+            }
+          },
+          {
+            "id": "ed6fd01d1bd20234",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11第0篇_绪论_普通生物学.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11第0篇_绪论_普通生物学"
+            }
+          },
+          {
+            "id": "a9918b44aed39011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13第2篇_遗传与变异_普通生物学.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13第2篇_遗传与变异_普通生物学"
+            }
+          },
+          {
+            "id": "7323b8eb949b35c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14第3篇_生物演化_普通生物学.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14第3篇_生物演化_普通生物学"
+            }
+          },
+          {
+            "id": "6328dd7e268fa2c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "15第4篇_生物多样性的演化_普通生物学.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15第4篇_生物多样性的演化_普通生物学"
+            }
+          },
+          {
+            "id": "fd59f4a896407d3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "17第6篇_动物的形态与功能_普通生物学.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "17第6篇_动物的形态与功能_普通生物学"
+            }
+          },
+          {
+            "id": "6bbfb4bba9bac761",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "18第7篇_生态学与保护生物学_普通生物学.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "18第7篇_生态学与保护生物学_普通生物学"
+            }
+          },
+          {
+            "id": "b90307a96fe8b601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13第2篇_遗传与变异_普通生物学.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13第2篇_遗传与变异_普通生物学"
+            }
+          },
+          {
+            "id": "df8e2e91e5023492",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12第1篇_细胞_普通生物学.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12第1篇_细胞_普通生物学"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e8709f6e1875293d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8270a22784b8738",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {},
+              "icon": "dot-network",
+              "title": "Mind Map of 10普通生物学"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8554515e985c8161",
+    "type": "split",
+    "children": [
+      {
+        "id": "546352533fdc03bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7e5fba6f690f338",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6cc988e36f41a63b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e097b30549557a32",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ecf22b88cc5a1a3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "38663a2df0099b92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddb4847ddb869e6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01生物学综合考试大纲.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01生物学综合考试大纲"
+            }
+          },
+          {
+            "id": "5339b174640239db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01生物学综合考试大纲.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01生物学综合考试大纲"
+            }
+          },
+          {
+            "id": "ffae86abf633579f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8cbe8056ce412c9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01生物学综合考试大纲.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01生物学综合考试大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "68d98d99bbea1589",
+  "lastOpenFiles": [
+    "18第7篇_生态学与保护生物学_普通生物学.md",
+    "10普通生物学.md",
+    "17第6篇_动物的形态与功能_普通生物学.md",
+    "16第5篇_植物的形态与功能_普通生物学.md",
+    "Untitled.md",
+    "15第4篇_生物多样性的演化_普通生物学.md",
+    "14第3篇_生物演化_普通生物学.md",
+    "11第0篇_绪论_普通生物学.md",
+    "13第2篇_遗传与变异_普通生物学.md",
+    "12第1篇_细胞_普通生物学.md",
+    "90记忆结构.md",
+    "01生物学综合考试大纲.md",
+    "书籍和材料/888生物学综合.pdf",
+    "书籍和材料",
+    "书籍",
+    "新建文件夹",
+    "888生物学综合.pdf"
+  ]
+}
